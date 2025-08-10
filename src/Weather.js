@@ -32,7 +32,7 @@ export default function  () {
 <h1>Weather in {weather.data.name}</h1>
 <h2>Temperature: {(weather.data.main.temp)/10}</h2>
 <h3> wind speed  :{weather.data.wind.speed} m/s</h3>
-<h1>pankaj</h1>
+<h1>pankaj is good </h1>
 </div>
 </>}
       </div>
